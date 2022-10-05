@@ -1,0 +1,9 @@
+com\NetBankingV1\TestCases\TC_logintest_001.class
+com\NetBankingV1\TestCases\TC_AddCustomer_003.class
+com\NetBankingV1\TestCases\TC_logintestddt_002.class
+com\NetBankingV1\Utlities\ReadConfig.class
+com\NetBankingV1\TestCases\BaseClass.class
+com\NetBankingV1\Utlities\XLutil.class
+com\NetBankingV1\PageObjectModel\AddCustomerpage.class
+com\NetBankingV1\Utlities\Reporting.class
+com\NetBankingV1\PageObjectModel\LoginPage.class

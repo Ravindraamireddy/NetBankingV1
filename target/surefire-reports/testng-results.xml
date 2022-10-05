@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-04T22:17:00 IST" name="NetBankingV1" finished-at="2022-10-04T22:17:33 IST" duration-ms="32600">
+    <groups>
+    </groups>
+    <test started-at="2022-10-04T22:17:00 IST" name="BankingApp" finished-at="2022-10-04T22:17:33 IST" duration-ms="32600">
+      <class name="com.NetBankingV1.TestCases.TC_logintest_001">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.NetBankingV1.TestCases.TC_logintest_001@e70f13a]" started-at="2022-10-04T22:17:00 IST" name="Setup" finished-at="2022-10-04T22:17:07 IST" duration-ms="7034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="logintest()[pri:0, instance:com.NetBankingV1.TestCases.TC_logintest_001@e70f13a]" started-at="2022-10-04T22:17:07 IST" name="logintest" finished-at="2022-10-04T22:17:10 IST" duration-ms="2190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NetBankingV1.TestCases.TC_logintest_001@e70f13a]" started-at="2022-10-04T22:17:10 IST" name="teardown" finished-at="2022-10-04T22:17:10 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NetBankingV1.TestCases.TC_logintest_001 -->
+      <class name="com.NetBankingV1.TestCases.TC_AddCustomer_003">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.NetBankingV1.TestCases.TC_AddCustomer_003@49964d75]" started-at="2022-10-04T22:17:10 IST" name="Setup" finished-at="2022-10-04T22:17:16 IST" duration-ms="6172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="AddCustomer()[pri:0, instance:com.NetBankingV1.TestCases.TC_AddCustomer_003@49964d75]" started-at="2022-10-04T22:17:16 IST" name="AddCustomer" finished-at="2022-10-04T22:17:32 IST" duration-ms="16178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCustomer -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NetBankingV1.TestCases.TC_AddCustomer_003@49964d75]" started-at="2022-10-04T22:17:32 IST" name="teardown" finished-at="2022-10-04T22:17:33 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NetBankingV1.TestCases.TC_AddCustomer_003 -->
+    </test> <!-- BankingApp -->
+  </suite> <!-- NetBankingV1 -->
+</testng-results>

@@ -1,0 +1,690 @@
+2022-09-22 15:47:02,007 - NetBankingV1 -INFO - url opened
+2022-09-22 15:47:02,167 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-22 15:47:02,280 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-22 15:47:11,964 - NetBankingV1 -INFO - Login Passed
+2022-09-22 15:48:25,301 - NetBankingV1 -INFO - url opened
+2022-09-22 15:48:25,469 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-22 15:48:25,595 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-22 15:48:27,592 - NetBankingV1 -INFO - Login Passed
+2022-09-22 18:03:37,035 - NetBankingV1 -INFO - url opened
+2022-09-22 18:03:37,324 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-22 18:03:37,473 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-22 18:03:39,389 - NetBankingV1 -INFO - Login Passed
+2022-09-22 21:08:45,275 - NetBankingV1 -INFO - url opened
+2022-09-22 21:08:45,500 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-22 21:08:45,628 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-22 21:08:47,491 - NetBankingV1 -INFO - Login Passed
+2022-09-22 21:10:11,301 - NetBankingV1 -INFO - url opened
+2022-09-22 21:10:11,424 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-22 21:10:11,458 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-22 21:10:14,905 - NetBankingV1 -INFO - Login Passed
+2022-09-22 21:53:32,225 - NetBankingV1 -INFO - url opened
+2022-09-22 21:53:32,505 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-22 21:53:32,608 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-22 21:53:35,714 - NetBankingV1 -INFO - Login Passed
+2022-09-23 16:05:06,423 - NetBankingV1 -INFO - url opened
+2022-09-23 16:05:06,794 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-23 16:05:06,978 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-23 16:05:09,544 - NetBankingV1 -INFO - Login Passed
+2022-09-23 22:41:48,043 - NetBankingV1 -INFO - url opened
+2022-09-23 22:41:48,237 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-23 22:41:48,544 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-23 22:45:30,464 - NetBankingV1 -INFO - url opened
+2022-09-23 22:45:30,682 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-23 22:45:30,815 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-23 22:45:32,787 - NetBankingV1 -INFO - Login Passed
+2022-09-23 22:46:09,177 - NetBankingV1 -INFO - url opened
+2022-09-23 22:46:09,516 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-23 22:46:09,802 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-23 22:46:11,774 - NetBankingV1 -INFO - Login Passed
+2022-09-23 22:57:59,358 - NetBankingV1 -INFO - url opened
+2022-09-23 22:57:59,654 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-23 22:57:59,806 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-23 22:58:02,769 - NetBankingV1 -INFO - Login Passed
+2022-09-23 22:58:44,121 - NetBankingV1 -INFO - url opened
+2022-09-23 22:58:44,291 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-23 22:58:44,413 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-25 09:31:40,187 - NetBankingV1 -INFO - url opened
+2022-09-25 09:31:40,654 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-25 09:31:40,834 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-25 10:16:44,335 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:16:44,433 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:16:52,445 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:16:52,542 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:16:59,580 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:16:59,667 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:17:07,167 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:17:07,270 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:17:14,248 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:17:14,348 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:18:29,861 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:18:29,998 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:18:38,065 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:18:38,174 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:18:44,952 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:18:45,042 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:18:52,114 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:18:52,479 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:18:59,074 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:18:59,166 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:31:24,274 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:31:24,412 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:31:31,837 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:31:31,939 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:31:38,740 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:31:38,858 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:31:46,520 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:31:46,612 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:31:57,797 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:31:58,194 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:36:03,166 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:36:03,272 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:36:11,119 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:36:11,209 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:36:18,875 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:36:18,960 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:36:28,632 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:36:29,068 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:36:37,548 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:36:37,904 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:46:15,578 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:46:15,679 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:46:23,867 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:46:23,999 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:46:24,079 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:46:30,898 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:46:31,049 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:46:31,602 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:46:39,595 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:46:39,726 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:46:40,153 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:46:46,157 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:46:46,491 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:46:46,601 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:46:53,232 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:54:20,946 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:54:21,073 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:54:28,357 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:54:28,512 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:54:28,755 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:58:20,719 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:58:20,853 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:58:27,697 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:58:28,103 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:58:28,208 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:58:34,482 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:58:34,604 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:58:34,706 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:58:42,388 - NetBankingV1 -WARN - Login Failed
+2022-09-25 10:58:42,545 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 10:58:42,998 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 10:58:51,449 - NetBankingV1 -WARN - Login Failed
+2022-09-25 11:01:21,432 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 11:01:21,550 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 11:01:29,345 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 11:01:29,424 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 11:01:35,837 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 11:01:36,097 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 11:01:43,379 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 11:01:43,483 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 11:01:50,044 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 11:01:50,475 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:25:20,170 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:25:20,332 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:25:27,403 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:25:27,526 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:25:34,257 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:25:34,391 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:25:42,177 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:25:42,300 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:25:48,445 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:25:48,889 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:32:38,347 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:32:38,514 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:32:44,880 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:32:44,984 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:32:51,832 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:32:51,960 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:32:58,007 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:32:58,350 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 13:33:05,066 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 13:33:05,501 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 14:06:39,516 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 14:06:39,736 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 14:06:47,758 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 14:06:47,866 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 14:06:54,202 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 14:06:54,504 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 14:07:00,506 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 14:07:00,890 - NetBankingV1 -INFO - PassWard Provided
+2022-09-25 14:07:07,649 - NetBankingV1 -INFO - UserName Provided
+2022-09-25 14:07:07,787 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 08:18:15,066 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 08:18:15,224 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 08:18:18,780 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 08:22:44,303 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 08:22:44,441 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 08:22:49,333 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 08:26:02,701 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 08:26:02,833 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 08:26:07,597 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 08:32:50,203 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 08:32:50,339 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 08:32:55,104 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 08:35:27,984 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 08:35:28,164 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 08:35:33,011 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 15:14:36,171 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 15:14:36,397 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 15:14:41,348 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 15:19:52,973 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 15:19:53,093 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 15:20:01,222 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 15:26:02,167 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 15:26:02,273 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 15:29:09,962 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 15:29:10,111 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 15:47:54,840 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 15:47:55,039 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 16:06:51,799 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 16:06:52,080 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 16:14:46,977 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 16:14:47,093 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 16:19:49,808 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 16:19:49,926 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 16:58:35,805 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 16:58:35,975 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 17:16:03,224 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 17:16:03,338 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 17:17:34,461 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 17:17:34,582 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 17:20:28,515 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 17:20:28,752 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 17:23:55,066 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 17:23:55,201 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 17:59:25,855 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 17:59:26,137 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:04:31,437 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:04:31,573 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:15:59,215 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:15:59,395 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:22:22,289 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:22:22,642 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:22:28,453 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 18:23:18,839 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:23:18,950 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:23:23,850 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 18:24:48,213 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:24:48,419 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:24:53,467 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 18:43:07,977 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:43:08,133 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:43:13,186 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 18:45:21,231 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:45:21,434 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:45:28,167 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 18:48:06,401 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 18:48:06,585 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 18:48:11,927 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 19:00:39,955 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 19:00:40,138 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 19:00:45,390 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 20:04:38,001 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 20:04:38,194 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 20:04:43,427 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 20:08:02,444 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 20:08:02,902 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 20:08:09,605 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 20:11:45,510 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 20:11:46,623 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 20:11:51,457 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 20:12:04,890 - NetBankingV1 -INFO - Testcase is passed
+2022-09-27 20:33:30,227 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:33:30,355 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:33:37,102 - NetBankingV1 -INFO - Login Sucess
+2022-09-27 20:33:42,945 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:33:43,060 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:33:50,502 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:33:50,634 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:33:59,724 - NetBankingV1 -INFO - Login Sucess
+2022-09-27 20:34:05,403 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:34:05,745 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:34:12,231 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:34:12,450 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:34:19,032 - NetBankingV1 -INFO - Login Sucess
+2022-09-27 20:34:31,814 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 20:34:32,020 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 20:34:37,048 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 20:34:49,568 - NetBankingV1 -INFO - Testcase is passed
+2022-09-27 20:42:06,789 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:42:06,923 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:42:13,807 - NetBankingV1 -INFO - Login Sucess
+2022-09-27 20:42:20,135 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:42:20,339 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:42:27,631 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:42:27,756 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:42:38,009 - NetBankingV1 -INFO - Login Sucess
+2022-09-27 20:42:44,353 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:42:44,546 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:42:50,580 - NetBankingV1 -INFO - UserName Provided
+2022-09-27 20:42:50,933 - NetBankingV1 -INFO - PassWard Provided
+2022-09-27 20:42:57,278 - NetBankingV1 -INFO - Login Sucess
+2022-09-27 20:43:10,569 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-27 20:43:10,858 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-27 20:43:15,776 - NetBankingV1 -INFO - NewCustomer details
+2022-09-27 20:43:28,567 - NetBankingV1 -INFO - Testcase is passed
+2022-09-28 16:53:50,100 - NetBankingV1 -INFO - url opened
+2022-09-28 16:53:50,531 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-28 16:53:52,733 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-28 16:54:05,387 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-28 16:54:05,577 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-28 16:54:11,394 - NetBankingV1 -INFO - NewCustomer details
+2022-09-28 16:54:26,682 - NetBankingV1 -INFO - Testcase is passed
+2022-09-28 16:55:42,828 - NetBankingV1 -INFO - url opened
+2022-09-28 16:55:43,849 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-28 16:55:45,151 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-28 16:55:48,223 - NetBankingV1 -INFO - Login Passed
+2022-09-28 16:55:55,932 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-28 16:55:56,753 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-28 16:56:03,606 - NetBankingV1 -INFO - NewCustomer details
+2022-09-28 16:56:19,934 - NetBankingV1 -INFO - Testcase is passed
+2022-09-28 18:32:16,814 - NetBankingV1 -INFO - url opened
+2022-09-28 18:32:17,138 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-28 18:32:17,271 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-28 18:32:20,015 - NetBankingV1 -INFO - Login Passed
+2022-09-28 18:32:27,115 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-28 18:32:27,251 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-28 18:32:34,227 - NetBankingV1 -INFO - NewCustomer details
+2022-09-28 18:32:46,069 - NetBankingV1 -INFO - Testcase is passed
+2022-09-29 09:11:03,369 - NetBankingV1 -INFO - url opened
+2022-09-29 09:11:03,685 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-29 09:11:03,860 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-29 09:11:05,971 - NetBankingV1 -INFO - Login Passed
+2022-09-30 20:07:36,667 - NetBankingV1 -INFO - url opened
+2022-09-30 20:07:37,032 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-30 20:07:37,174 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-30 20:07:42,698 - NetBankingV1 -INFO - Login Passed
+2022-09-30 20:07:43,562 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3161) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+2022-09-30 20:08:39,301 - NetBankingV1 -INFO - url opened
+2022-09-30 20:08:39,464 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-30 20:08:39,690 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-30 20:08:45,018 - NetBankingV1 -INFO - Login Passed
+2022-09-30 20:08:53,721 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-30 20:08:53,980 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-30 20:09:04,582 - NetBankingV1 -INFO - NewCustomer details
+2022-09-30 20:09:17,529 - NetBankingV1 -INFO - Testcase is passed
+2022-09-30 20:09:18,347 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3161) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+2022-09-30 20:15:59,813 - NetBankingV1 -INFO - url opened
+2022-09-30 20:16:00,144 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-09-30 20:16:00,278 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-09-30 20:16:05,276 - NetBankingV1 -INFO - Login Passed
+2022-09-30 20:16:24,090 - NetBankingV1 -INFO - ENTER USERNAME
+2022-09-30 20:16:24,240 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-09-30 20:16:29,868 - NetBankingV1 -INFO - NewCustomer details
+2022-09-30 20:16:42,317 - NetBankingV1 -INFO - Testcase is passed
+2022-10-01 07:04:37,765 - NetBankingV1 -INFO - url opened
+2022-10-01 07:04:38,150 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-01 07:04:38,354 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-01 07:04:40,161 - NetBankingV1 -INFO - Login Passed
+2022-10-01 07:04:46,730 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-01 07:04:46,900 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-01 07:04:51,902 - NetBankingV1 -INFO - NewCustomer details
+2022-10-01 07:05:03,238 - NetBankingV1 -INFO - Testcase is passed
+2022-10-01 14:38:28,774 - NetBankingV1 -INFO - url opened
+2022-10-01 14:38:28,935 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-01 14:38:29,232 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-01 14:38:31,321 - NetBankingV1 -INFO - Login Passed
+2022-10-01 14:38:41,545 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 14:38:41,657 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 14:38:49,398 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 14:38:55,053 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 14:38:55,170 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 14:39:01,654 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 14:39:01,849 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 14:39:09,516 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 14:39:16,336 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 14:39:16,456 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 14:39:23,899 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 14:39:24,050 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 14:39:30,483 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 14:39:43,860 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-01 14:39:44,157 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-01 14:39:49,167 - NetBankingV1 -INFO - NewCustomer details
+2022-10-01 14:40:00,367 - NetBankingV1 -INFO - Testcase is passed
+2022-10-01 15:27:52,925 - NetBankingV1 -INFO - url opened
+2022-10-01 15:27:53,136 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-01 15:27:53,274 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-01 15:27:56,766 - NetBankingV1 -INFO - Login Passed
+2022-10-01 15:28:05,657 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:28:05,779 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:28:13,208 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 15:28:19,171 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:28:19,410 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:28:26,995 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:28:27,233 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:28:36,456 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 15:28:43,662 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:28:43,814 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:28:50,468 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:28:50,580 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:28:56,864 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 15:29:08,935 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-01 15:29:09,052 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-01 15:29:13,979 - NetBankingV1 -INFO - NewCustomer details
+2022-10-01 15:29:25,829 - NetBankingV1 -INFO - Testcase is passed
+2022-10-01 15:50:51,097 - NetBankingV1 -INFO - url opened
+2022-10-01 15:50:51,401 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-01 15:50:51,547 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-01 15:50:53,615 - NetBankingV1 -INFO - Login Passed
+2022-10-01 15:51:03,107 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:51:03,244 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:51:12,063 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 15:51:18,363 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:51:18,605 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:51:30,999 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:51:31,115 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:51:39,053 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 15:51:45,369 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:51:45,468 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:51:53,671 - NetBankingV1 -INFO - UserName Provided
+2022-10-01 15:51:53,857 - NetBankingV1 -INFO - PassWard Provided
+2022-10-01 15:52:00,241 - NetBankingV1 -INFO - Login Sucess
+2022-10-01 15:52:12,874 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-01 15:52:13,104 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-01 15:52:18,035 - NetBankingV1 -INFO - NewCustomer details
+2022-10-01 15:52:30,139 - NetBankingV1 -INFO - Testcase is passed
+2022-10-01 15:54:06,303 - NetBankingV1 -INFO - url opened
+2022-10-01 15:54:06,461 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-01 15:54:06,571 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-01 15:54:08,658 - NetBankingV1 -INFO - Login Passed
+2022-10-01 15:54:18,847 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-01 15:54:18,955 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-01 15:54:23,909 - NetBankingV1 -INFO - NewCustomer details
+2022-10-01 15:54:36,025 - NetBankingV1 -INFO - Testcase is passed
+2022-10-01 15:54:36,931 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3161) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.1.jar:7.6.1]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+2022-10-01 19:47:18,661 - NetBankingV1 -INFO - url opened
+2022-10-01 19:47:19,045 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-01 19:47:19,207 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-01 19:47:21,042 - NetBankingV1 -INFO - Login Passed
+2022-10-01 19:47:28,042 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-01 19:47:28,213 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-01 19:47:33,140 - NetBankingV1 -INFO - NewCustomer details
+2022-10-01 19:47:44,036 - NetBankingV1 -INFO - Testcase is passed
+2022-10-01 22:54:25,194 - NetBankingV1 -INFO - url opened
+2022-10-01 22:54:25,353 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-01 22:54:25,556 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-01 22:54:28,079 - NetBankingV1 -INFO - Login Passed
+2022-10-01 22:54:49,490 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-01 22:54:49,585 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-01 22:54:56,253 - NetBankingV1 -INFO - NewCustomer details
+2022-10-01 22:55:17,635 - NetBankingV1 -INFO - Testcase is passed
+2022-10-02 13:10:10,617 - NetBankingV1 -INFO - url opened
+2022-10-02 13:10:10,818 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-02 13:10:10,944 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-02 13:10:13,106 - NetBankingV1 -INFO - Login Passed
+2022-10-02 13:10:22,912 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-02 13:10:23,024 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-02 13:10:27,828 - NetBankingV1 -INFO - NewCustomer details
+2022-10-02 13:11:52,756 - NetBankingV1 -INFO - url opened
+2022-10-02 13:11:53,052 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-02 13:11:53,212 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-02 13:11:55,986 - NetBankingV1 -INFO - Login Passed
+2022-10-02 13:12:02,967 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-02 13:12:03,095 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-02 13:12:08,074 - NetBankingV1 -INFO - NewCustomer details
+2022-10-02 13:12:19,698 - NetBankingV1 -INFO - Testcase is passed
+2022-10-02 13:12:21,440 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3161) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.1.jar:7.6.1]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+2022-10-03 20:45:32,627 - NetBankingV1 -INFO - url opened
+2022-10-03 20:45:32,930 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-03 20:45:33,069 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-03 20:45:35,508 - NetBankingV1 -INFO - Login Passed
+2022-10-03 20:45:42,282 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-03 20:45:42,562 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-03 20:45:47,626 - NetBankingV1 -INFO - NewCustomer details
+2022-10-03 20:45:59,911 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 08:55:15,978 - NetBankingV1 -INFO - url opened
+2022-10-04 08:55:16,219 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 08:55:16,421 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 08:55:18,569 - NetBankingV1 -INFO - Login Passed
+2022-10-04 08:55:26,729 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 08:55:26,850 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 08:55:32,985 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 08:55:44,403 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 09:03:47,230 - NetBankingV1 -INFO - url opened
+2022-10-04 09:03:47,418 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 09:03:47,699 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 09:03:49,573 - NetBankingV1 -INFO - Login Passed
+2022-10-04 09:03:55,750 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 09:03:55,873 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 09:04:00,749 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 19:45:38,954 - NetBankingV1 -INFO - url opened
+2022-10-04 19:45:39,129 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 19:45:39,358 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 19:45:41,226 - NetBankingV1 -INFO - Login Passed
+2022-10-04 19:45:48,753 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 19:45:48,911 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 19:45:55,360 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 19:46:06,905 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 19:46:07,894 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3160) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+2022-10-04 20:31:27,674 - NetBankingV1 -INFO - url opened
+2022-10-04 20:31:27,825 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:31:28,121 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:31:29,955 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:31:36,393 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 20:31:36,498 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 20:31:41,825 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 20:33:03,698 - NetBankingV1 -INFO - url opened
+2022-10-04 20:33:03,858 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:33:04,094 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:33:05,936 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:33:12,735 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 20:33:12,886 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 20:33:17,954 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 20:34:26,182 - NetBankingV1 -INFO - url opened
+2022-10-04 20:34:26,484 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:34:26,613 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:34:28,467 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:34:37,689 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 20:34:37,827 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 20:34:43,427 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 20:34:54,147 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 20:34:55,153 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3160) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) ~[testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.0.jar:7.6.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+2022-10-04 20:35:25,414 - NetBankingV1 -INFO - url opened
+2022-10-04 20:35:25,748 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:35:25,898 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:35:29,399 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:35:35,559 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 20:35:35,685 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 20:35:40,776 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 20:35:50,784 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 20:39:00,016 - NetBankingV1 -INFO - url opened
+2022-10-04 20:39:00,203 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:39:00,492 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:39:02,340 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:39:09,626 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 20:39:09,789 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 20:39:16,201 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 20:41:00,532 - NetBankingV1 -INFO - url opened
+2022-10-04 20:41:00,726 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:41:00,867 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:41:03,038 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:43:42,890 - NetBankingV1 -INFO - url opened
+2022-10-04 20:43:43,037 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:43:43,216 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:43:47,492 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:43:54,179 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 20:43:54,451 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 20:43:59,575 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 20:50:18,526 - NetBankingV1 -INFO - url opened
+2022-10-04 20:50:18,675 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 20:50:18,781 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 20:50:23,542 - NetBankingV1 -INFO - Login Passed
+2022-10-04 20:50:34,169 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 20:50:34,266 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 20:50:37,985 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 21:08:18,126 - NetBankingV1 -INFO - url opened
+2022-10-04 21:08:18,501 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 21:08:18,636 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 21:08:22,735 - NetBankingV1 -INFO - Login Passed
+2022-10-04 21:08:29,717 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 21:08:29,824 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 21:08:34,798 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 21:08:45,552 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 21:08:46,424 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3160) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) ~[testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.0.jar:7.6.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+2022-10-04 21:56:19,111 - NetBankingV1 -INFO - url opened
+2022-10-04 21:56:19,332 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 21:56:19,455 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 21:56:21,188 - NetBankingV1 -INFO - Login Passed
+2022-10-04 21:56:27,222 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 21:56:27,371 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 21:56:32,170 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 21:56:42,370 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 21:56:44,036 - org.testng.reporters.jq.Main -ERROR - C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\COMPUTER\eclipse-workspace\NetBankingV1\target\surefire-reports\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3160) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) ~[testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.0.jar:7.6.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+2022-10-04 22:16:16,500 - NetBankingV1 -INFO - url opened
+2022-10-04 22:16:16,787 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 22:16:17,029 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 22:16:19,823 - NetBankingV1 -INFO - Login Passed
+2022-10-04 22:16:25,749 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 22:16:25,880 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 22:16:30,892 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 22:16:42,994 - NetBankingV1 -INFO - Testcase is passed
+2022-10-04 22:17:08,008 - NetBankingV1 -INFO - url opened
+2022-10-04 22:17:08,199 - NetBankingV1 -INFO - ENTERED USER NAME
+2022-10-04 22:17:08,315 - NetBankingV1 -INFO - ENTERED PASSWORD
+2022-10-04 22:17:10,186 - NetBankingV1 -INFO - Login Passed
+2022-10-04 22:17:16,944 - NetBankingV1 -INFO - ENTER USERNAME
+2022-10-04 22:17:17,170 - NetBankingV1 -INFO - ENTER PASSWORD
+2022-10-04 22:17:22,025 - NetBankingV1 -INFO - NewCustomer details
+2022-10-04 22:17:32,976 - NetBankingV1 -INFO - Testcase is passed
